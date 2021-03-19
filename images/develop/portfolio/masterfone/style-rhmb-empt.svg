@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="930px" height="850px" viewBox="0 0 930 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>Polygon Copy 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="48.3448279%" y1="97.6437272%" x2="50%" y2="-4.71596295%" id="linearGradient-1">
+            <stop stop-color="#042135" offset="0%"></stop>
+            <stop stop-color="#398AB7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Masterfon" transform="translate(-888.000000, -8939.000000)" stroke="url(#linearGradient-1)">
+            <path d="M1383,8907.32051 L1733.49604,9109.67949 C1752.06011,9120.39746 1763.49604,9140.20508 1763.49604,9161.64102 L1763.49604,9566.35898 C1763.49604,9587.79492 1752.06011,9607.60254 1733.49604,9618.32051 L1383,9820.67949 C1364.43594,9831.39746 1341.56406,9831.39746 1323,9820.67949 L972.503959,9618.32051 C953.939894,9607.60254 942.503959,9587.79492 942.503959,9566.35898 L942.503959,9161.64102 C942.503959,9140.20508 953.939894,9120.39746 972.503959,9109.67949 L1323,8907.32051 C1341.56406,8896.60254 1364.43594,8896.60254 1383,8907.32051 Z" id="Polygon-Copy-13" transform="translate(1353.000000, 9364.000000) rotate(-326.000000) translate(-1353.000000, -9364.000000) "></path>
+        </g>
+    </g>
+</svg>

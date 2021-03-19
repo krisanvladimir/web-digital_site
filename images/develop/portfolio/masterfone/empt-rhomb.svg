@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1060px" height="1078px" viewBox="0 0 1060 1078" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>Polygon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="62.7341148%" y1="98.7597996%" x2="38.6195462%" y2="10.4265311%" id="linearGradient-1">
+            <stop stop-color="#77BCCD" offset="0%"></stop>
+            <stop stop-color="#F5F7F8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.704403832">
+        <g id="Masterfon" transform="translate(-49.000000, -1614.000000)" stroke="url(#linearGradient-1)">
+            <path d="M609,1610.32051 L1033.97423,1855.67949 C1052.53829,1866.39746 1063.97423,1886.20508 1063.97423,1907.64102 L1063.97423,2398.35898 C1063.97423,2419.79492 1052.53829,2439.60254 1033.97423,2450.32051 L609,2695.67949 C590.435935,2706.39746 567.564065,2706.39746 549,2695.67949 L124.025774,2450.32051 C105.461709,2439.60254 94.0257739,2419.79492 94.0257739,2398.35898 L94.0257739,1907.64102 C94.0257739,1886.20508 105.461709,1866.39746 124.025774,1855.67949 L549,1610.32051 C567.564065,1599.60254 590.435935,1599.60254 609,1610.32051 Z" id="Polygon" transform="translate(579.000000, 2153.000000) rotate(-287.000000) translate(-579.000000, -2153.000000) "></path>
+        </g>
+    </g>
+</svg>

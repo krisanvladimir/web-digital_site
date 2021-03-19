@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1188px" height="1241px" viewBox="0 0 1188 1241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="86.8640522%" y1="0%" x2="-1.57980063%" y2="108.413847%" id="linearGradient-1">
+            <stop stop-color="#183443" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#05BD72" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-3.4%" y="-3.4%" width="106.7%" height="106.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="url(#linearGradient-1)" filter="url(#filter-2)" transform="translate(565.620621, 620.620621) rotate(-135.000000) translate(-565.620621, -620.620621) " x="118.997397" y="173.997397" width="893.246449" height="893.246449" rx="82"></rect>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>cont_banner1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="электронная_коммерция" transform="translate(-423.000000, -2723.000000)" fill="#FF614C" fill-rule="nonzero">
+            <g id="cont_banner1" transform="translate(423.000000, 2723.000000)">
+                <path d="M62,0 L2,0 C0.9,0 0,0.9 0,2 L0,12 C0,12.5 0.2,13 0.5,13.4 L24,38.8 L24,62 C24,62.8 24.4,63.5 25.2,63.8 C25.5,63.9 25.8,64 26,64 C26.5,64 26.9,63.8 27.3,63.5 L39.3,53.5 C39.8,53.1 40,52.6 40,52 L40,38.8 L63.5,13.4 C63.8,13 64,12.5 64,12 L64,2 C64,0.9 63.1,0 62,0 Z M60,4 L60,9 L4,9 L4,4 L60,4 Z M36.5,36.6 C36.2,37 36,37.5 36,38 L36,51.1 L28,57.8 L28,38 C28,37.5 27.8,37 27.5,36.6 L4,11.2 L4,11 L60,11 L60,11.2 L36.5,36.6 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
